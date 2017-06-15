@@ -1,0 +1,24 @@
+{
+  "name": "travelapp-web",
+  "version": "0.0.1",
+  "description": "TravelApp - React/Redux - [Create-React-App] - Front-End Web Client",
+  "engines": {
+    "node": ">=7.10.0",
+    "npm": "^4.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "author": "Bartek Kus <bartekus@gmail.com> (https://bartekus.com)",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.7"
+  }
+}
